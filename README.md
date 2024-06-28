@@ -5,4 +5,4 @@
 📫 How to reach me: Feel free to message me here on GitHub!
 😄 Pronouns: He/him
 ⚡ Fun fact: I enjoy solving algorithmic challenges and exploring new programming languages in my free time.
-![PYTHON FAN]https://logohistory.net/wp-content/uploads/2023/06/Python-Symbol.png
+

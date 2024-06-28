@@ -1,4 +1,4 @@
-👋 Hi, I’m @faellim
+<h1 align="center">👋 Hi, I’m @faellim</h1>
 👀 I’m interested in programming, software development, and technology.
 🌱 I’m currently learning new frameworks and improving my coding skills.
 💞️ I’m looking to collaborate on open-source projects and innovative software solutions.

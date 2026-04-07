@@ -44,11 +44,6 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=faellim&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faellim&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=faellim&theme=tokyonight&hide_border=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=faellim&theme=tokyonight"/>
 </p>

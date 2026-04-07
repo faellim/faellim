@@ -45,7 +45,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=faellim&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=faellim&theme=tokyonight"/>
 </p>
 
 ---

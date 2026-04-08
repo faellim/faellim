@@ -18,7 +18,7 @@
 ## 🚀 Projects
 
 - 🔹 [**Task Manager API**](https://github.com/faellim/task-manager-api) – REST API with authentication and database  
-- 🔹 [**Portfolio Website**](https://github.com/faellim/portfolio-website) – Personal responsive website  
+- 🔹 [**RiderCar Website**](https://github.com/faellim/ridercar) – RiderCar responsive website  
 - 🔹 [**Data Analysis Tool**](https://github.com/faellim/data-analysis-tool) – Python scripts for data processing  
 
 ---

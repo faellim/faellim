@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Lima</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer;Always+learning+new+things" />
 </p>
 
 ---

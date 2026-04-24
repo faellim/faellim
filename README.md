@@ -28,6 +28,8 @@
 ### 🚀 Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge&animation=shine)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge&animation=shine)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&animation=shine)
 
 ### ⚙️ Other Knowledge

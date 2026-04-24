@@ -9,9 +9,9 @@
 ## 🧠 About Me
 
 🎓 **Software Engineering Student**  
-💻 **Backend Developer (Python | Java)**  
+💻 **Backend-focused developer (Python | Java)**  
 🚀 **Building REST APIs with database integration**  
-📊 **Focused on clean code and backend fundamentals**
+📊 **Learning clean code, databases and backend fundamentals**
 
 ---
 

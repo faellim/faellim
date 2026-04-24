@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-- 🔹 [**Task Manager API**](https://github.com/faellim/task-manager-api) – REST API built with Python (FastAPI), implementing JWT authentication, PostgreSQL database integration and CRUD operations. 
+- 🔹 [**Task Manager API**](https://github.com/faellim/task-manager-api) – REST API built with Python and FastAPI, featuring JWT authentication, PostgreSQL integration and CRUD operations.
 - 🔹 [**RiderCar Website**](https://github.com/faellim/ridercar) – RiderCar responsive website  
 - 🔹 [**Data Analysis Tool**](https://github.com/faellim/data-analysis-tool) – Python scripts for data processing  
 

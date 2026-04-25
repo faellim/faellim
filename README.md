@@ -18,9 +18,9 @@
 
 ## 🚀 Projects
 
-- 🔹 [**E-commerce API**](https://github.com/faellim/e-commerce-api) – Full-stack e-commerce system with FastAPI + React, featuring JWT authentication, role-based access, shopping cart, checkout flow, stock control, PostgreSQL, automated tests, Docker and CI/CD pipeline.
-- 🔹 [**Finance Tracker**](https://github.com/faellim/finance-tracker) – Backend-focused finance system with layered architecture (services/repository), supporting both web and CLI interfaces, with authentication, monthly analytics and financial precision using decimal.
-- 🔹 [**RiderCar Website**](https://github.com/faellim/ridercar) – Front-end car rental application with dynamic filtering, state-based rendering, responsive design, and interactive UX features built with vanilla JavaScript.
+- 🔹 [**E-commerce API**](https://github.com/faellim/e-commerce-api) – Full-stack e-commerce platform (FastAPI + React) with JWT authentication, role-based access, shopping cart, checkout flow, stock control, PostgreSQL, automated tests, Docker, and CI/CD.
+- 🔹 [**Finance Tracker**](https://github.com/faellim/finance-tracker) – Backend system with layered architecture (services/repository), supporting web and CLI interfaces, authentication, monthly analytics, and financial precision using decimal.
+- 🔹 [**RiderCar Website**](https://github.com/faellim/ridercar) – Front-end car rental application with dynamic filtering, state-based rendering, responsive design, and interactive UX using vanilla JavaScript.
 
 ---
 

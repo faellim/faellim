@@ -30,7 +30,7 @@
 - Shopping cart and checkout flow
 - Automated tests and Docker setup
 
-[![E-commerce API](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=e-commerce-api&theme=tokyonight&hide_border=true)](https://github.com/faellim/e-commerce-api)
+[![E-commerce API](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=e-commerce-api&theme=tokyonight&hide_border=true&v=2)](https://github.com/faellim/e-commerce-api)
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +45,7 @@
 - Monthly analytics and financial reports
 - Precise calculations using decimal values
 
-[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=finance-tracker&theme=tokyonight&hide_border=true)](https://github.com/faellim/finance-tracker)
+[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=finance-tracker&theme=tokyonight&hide_border=true&v=2)](https://github.com/faellim/finance-tracker)
 
 </td>
 </tr>
@@ -79,7 +79,7 @@
 - Search, filtering, rankings and responsive UI
 - Dark/light mode with persistence and API rate-limit handling (429 safe)
 
-[![Gtatic](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=Gtatic&theme=tokyonight&hide_border=true)](https://github.com/faellim/Gtatic)
+[![Gtatic](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=Gtatic&theme=tokyonight&hide_border=true&v=2)](https://github.com/faellim/Gtatic)
 
 </td>
 </tr>

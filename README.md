@@ -11,7 +11,7 @@
 🎓 **Software Engineering Student**  
 💻 **Backend-focused developer (Python | Java)**  
 🚀 **Building REST APIs with database integration**  
-📊 **Learning clean code, databases and backend architecture**
+📊 **Applying clean code principles and scalable backend architecture in real-world projects**
 
 ---
 

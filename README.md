@@ -49,6 +49,9 @@
 </p>
 
 ---
+## 📩 Opportunities
+
+🚀 Open to internship opportunities in backend development
 
 ## 📫 Connect with me
 

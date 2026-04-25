@@ -8,11 +8,10 @@
 
 ## 🧠 About Me
 
-🎓 **Software Engineering Student**  
-💻 **Backend-focused developer (Python | Java)**  
-🚀 **Building REST APIs with database integration**  
-📊 **Applying clean code principles and scalable backend architecture in real-world projects**  
-💡 **Focused on building real-world backend systems with clean architecture, authentication, and scalable APIs.**
+🎓 Software Engineering Student  
+💻 Backend-focused developer (Python | Java)  
+🚀 I build real-world backend systems with REST APIs, authentication, and database integration.  
+📊 Focused on clean architecture, scalability, and production-ready code.
 
 ---
 
@@ -35,6 +34,8 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge&animation=shine)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge&animation=shine)

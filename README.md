@@ -14,13 +14,76 @@
 📊 Focused on clean architecture, scalability, and production-ready code.
 
 ---
-
 ## 🚀 Projects
 
-- 🔹 [**E-commerce API**](https://github.com/faellim/e-commerce-api) – Full-stack e-commerce platform (FastAPI + React) with JWT authentication, role-based access, shopping cart, checkout flow, stock control, PostgreSQL, automated tests, Docker, and CI/CD.
-- 🔹 [**Finance Tracker**](https://github.com/faellim/finance-tracker) – Backend system with layered architecture (services/repository), supporting web and CLI interfaces, authentication, monthly analytics, and financial precision using decimal.
-- 🔹 [**RiderCar Website**](https://github.com/faellim/ridercar) – Front-end car rental application with dynamic filtering, state-based rendering, responsive design, and interactive UX using vanilla JavaScript.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
+### [🛒E-commerce API](https://github.com/faellim/e-commerce-api)
+
+> Full-stack e-commerce platform with authentication, cart, checkout, stock control, tests, Docker and CI/CD.
+
+`Python` `FastAPI` `React` `PostgreSQL` `JWT` `Docker` `CI/CD`
+
+- JWT authentication and role-based access
+- Shopping cart and checkout flow
+- Automated tests and Docker setup
+
+[![E-commerce API](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=e-commerce-api&theme=tokyonight&hide_border=true)](https://github.com/faellim/e-commerce-api)
+
+</td>
+<td width="50%" valign="top">
+
+### [💰Finance Tracker](https://github.com/faellim/finance-tracker)
+
+> Backend system for personal finance management with web and CLI interfaces.
+
+`Python` `PostgreSQL` `Architecture` `Authentication` `Decimal`
+
+- Layered architecture with services and repositories
+- Monthly analytics and financial reports
+- Precise calculations using decimal values
+
+[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=finance-tracker&theme=tokyonight&hide_border=true)](https://github.com/faellim/finance-tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🚗RiderCar Website](https://github.com/faellim/ridercar)
+
+> Front-end car rental application with dynamic filtering and responsive design.
+
+`JavaScript` `HTML` `CSS` `Responsive Design`
+
+- Dynamic car filtering
+- State-based rendering
+- Interactive and responsive UI
+
+[![RiderCar Website](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=ridercar&theme=tokyonight&hide_border=true)](https://github.com/faellim/ridercar)
+
+</td>
+<td width="50%" valign="top">
+
+### [🎮GTATIC](https://github.com/faellim/Gtatic)
+
+> Professional esports portal with resilient data architecture and offline-first behavior.
+
+
+`JavaScript` `HTML` `CSS` `API Integration` `Frontend Architecture`
+
+- Hybrid data system (API + cache + local JSON + embedded fallback)
+- Offline-first behavior with graceful fallback states
+- Search, filtering, rankings and responsive UI
+- Dark/light mode with persistence and API rate-limit handling (429 safe)
+
+[![Gtatic](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=Gtatic&theme=tokyonight&hide_border=true)](https://github.com/faellim/Gtatic)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack

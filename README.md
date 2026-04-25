@@ -62,7 +62,7 @@
 - State-based rendering
 - Interactive and responsive UI
 
-[![RiderCar Website](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=ridercar&theme=tokyonight&hide_border=true)](https://github.com/faellim/ridercar)
+[![RiderCar Website](https://github-readme-stats.vercel.app/api/pin/?username=faellim&repo=ridercar&theme=tokyonight&hide_border=true&v=2)](https://github.com/faellim/ridercar)
 
 </td>
 <td width="50%" valign="top">

@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 🎓 Software Engineering Student  
-💻 Backend-focused developer (Python | Java)  
+💻 Full-Stack developer (Python | Java)  
 🚀 I build real-world backend systems with REST APIs, authentication, and database integration.  
 📊 Focused on clean architecture, scalability, and production-ready code.
 

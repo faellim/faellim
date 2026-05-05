@@ -93,6 +93,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&animation=shine)
 
 ### ⚙️ Other Knowledge
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge&animation=shine)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge&animation=shine)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
